@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="200" viewBox="0 0 850 200">
-  <style>
-    .text { font-family: monospace; fill: #FFEA00; font-weight: bold; white-space: pre; font-size: 12px; }
-  </style>
-  <rect width="100%" height="100%" fill="black" />
-  <text x="10" y="20" class="text">
- _____                                                                    _____ 
+
+
+---
+
+```text
+  _____                                                                    _____ 
 ( ___ )------------------------------------------------------------------( ___ )
  |   |                                                                    |   | 
  |   |   _________         __                         ________            |   | 
@@ -15,5 +14,3 @@
  |   |         \/      \/                                     \/       \/ |   |
  |___|                                                                    |___| 
 (_____)------------------------------------------------------------------(_____)
-  </text>
-</svg>
